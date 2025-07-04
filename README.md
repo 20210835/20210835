@@ -11,22 +11,21 @@
   
   ## 👀 About Me
   #### :raising_hand: I am in the Department of Information Statistics at Dongduk Women's University.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :fire: I will process more data to become a data analysis expert and developer.<br/>
   <br/>
   <br/>
   
-  // 배지 코드
-  <img src="https://img.shields.io/badge/공식_명칭-공식_색상_코드?style=flat-square&logo=공식_명칭&logoColor=white"/>
-  
-  // 파이썬 배지 코드 예시
+    ## 🧱 Tech Stack
+  ### Language
+  <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  
-  // 자바스크립트 배지 코드 예시
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  
-  // Mysql 배지 코드 예시
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <!--R-->
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+  <!--django-->
+  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <!--uipath-->
+  <img src="https://img.shields.io/badge/uipath-FA4616?style=flat-square&logo=uipath&logoColor=white"/>
+  <br/>
   
   
   // Github Stats Card 코드
