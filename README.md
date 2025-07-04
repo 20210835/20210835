@@ -56,9 +56,9 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20210835)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20210835)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
@@ -76,12 +76,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-  
-  // Github Stats Card 코드
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20210835)](https://github.com/anuraghazra/github-readme-stats)
-   
-  // 예시 코드
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20210835)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
