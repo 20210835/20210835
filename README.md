@@ -15,7 +15,7 @@
   <br/>
   <br/>
   
-    ## 🧱 Tech Stack
+  ## 🧱 Tech Stack
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <!--uipath-->
   <img src="https://img.shields.io/badge/uipath-FA4616?style=flat-square&logo=uipath&logoColor=white"/>
+  <!--mysql-->
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <br/>
   
   
