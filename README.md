@@ -7,6 +7,14 @@
 
 <div>
   <!--Body-->
+
+  
+  ## 👀 About Me
+  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
+  #### :fire: I aim to become a Cloud AI Engineer.<br/>
+  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  <br/>
+  <br/>
   
   // 배지 코드
   <img src="https://img.shields.io/badge/공식_명칭-공식_색상_코드?style=flat-square&logo=공식_명칭&logoColor=white"/>
