@@ -1,3 +1,2 @@
 
-// Header 코드
-![header](https://capsule-render.vercel.app/api?type=waving&color=pink&height=높이&section=header&text=안녕하세요)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fab0cb&height=300&section=header&text=안녕하세요)
