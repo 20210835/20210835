@@ -1,6 +1,8 @@
 <div>    
+  
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=blur&color=ff78a9&height=300&section=header&text=WELCOME)
+  
 </div>
 
 <div>
