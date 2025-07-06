@@ -15,19 +15,27 @@
   <br/>
   <br/>
   
-  ## 🧱 Tech Stack
+  ## 🧱 Studying
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--R-->
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+  <!--html5-->
+  <img src="https://img.shields.io/badge/html5-E34F263?style=flat-square&logo=html5&logoColor=white"/>
+  <!--javascript-->
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <br/>
   
   ### Framework
   <!--Django-->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-    <!--uipath-->
+  <!--uipath-->
   <img src="https://img.shields.io/badge/uipath-FA4616?style=flat-square&logo=uipath&logoColor=white"/>
+  <!--pycharm-->
+  <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
+  <!--jupyter-->
+  <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>  
   <br/>
   
   ### ETC
@@ -46,7 +54,7 @@
 </div>
 
 <!--
-**Jiyu-Kim/Jiyu-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sumin-Kim/Sumin-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - Hi there 👋
